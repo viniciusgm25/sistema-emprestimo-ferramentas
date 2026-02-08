@@ -7,8 +7,12 @@ Facilitar o controle de ferramentas emprestadas, evitando perdas e melhorando a 
 
 ## Funcionalidades previstas
 - Cadastro de ferramentas
+- Cadastro de clientes
 - Registro de empréstimos
 - Controle de devoluções
+- Gerador de contrato
+- Relatorios
+- Registro de multa
 
 ## Tecnologias
 - Java

@@ -1,8 +1,3 @@
-/*
-    private void jMenu4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jMenu4ActionPerformed
-
-    }//GEN-LAST:event_jMenu4ActionPerformed
-*/
 package Telas;
 
 public class TPrincipal extends javax.swing.JFrame {
